@@ -171,7 +171,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pravintidake&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pravintidake&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="GitHub Streak" />
+   <img src="https://streak-stats.demolab.com?user=pravintidake&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
